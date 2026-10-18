@@ -3,6 +3,7 @@ id: "task_17"
 title: "[Nota: N.A.] Taller comunicación y séptimo arte. 207-211."
 materia: "Español y Literatura"
 materia_phidias: "Español y Comprensión Lectora"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "martes 13 oct"
 estado: "🟡 Pendientes (Esta semana)"
@@ -11,17 +12,18 @@ paginas_santillana: "Págs. 206–213 (Zonas de Entrenamiento en Págs. 210 y 21
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - espaol_y_literatura
 ---
 
 # 📝 [Nota: N.A.] Taller "comunicación y séptimo arte". 207-211.
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Español y Literatura|Español y Literatura]]
+> * **Asignatura:** [[Materia - Español y Literatura|Español y Literatura]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `martes 13 oct`
-> * **Estado:** **🟡 Pendientes (Esta semana)**
+> * **Estado Académico:** **🟡 Pendientes (Esta semana)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/v4/academic/course/group/dashboard?person=2046&period=64&group=5249)
 > * **Libro Guía Santillana:** [[Santillana - Lenguaje 10°]] (`Págs. 206–213 (Zonas de Entrenamiento en Págs. 210 y 213)`)
 
@@ -61,7 +63,7 @@ Definitiva con recuperación
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Español y Comprensión Lectora | **Actividad:** Taller Propaganda y Anuncio Publicitario — Páginas 173 a 177 (Libro Santillana UNOi Competencias Comunicativas 10°)
 

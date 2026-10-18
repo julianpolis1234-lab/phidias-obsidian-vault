@@ -3,6 +3,7 @@ id: "task_9"
 title: "[Nota: N.A.] Lectura previa EC, EP y Em"
 materia: "Física"
 materia_phidias: "Física"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "jueves 20 ago"
 estado: "🟡 Pendientes (Esta semana)"
@@ -11,17 +12,18 @@ paginas_santillana: "Págs. 269–274 y 284–287 + Guía PDF '10_física_3P_Tal
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - fsica
 ---
 
 # 📝 [Nota: N.A.] Lectura previa EC, EP y Em
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Física|Física]]
+> * **Asignatura:** [[Materia - Física|Física]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `jueves 20 ago`
-> * **Estado:** **🟡 Pendientes (Esta semana)**
+> * **Estado Académico:** **🟡 Pendientes (Esta semana)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/v4/academic/course/group/dashboard?person=2046&period=64&group=5041)
 > * **Libro Guía Santillana:** [[Santillana - Física 10°]] (`Págs. 269–274 y 284–287 + Guía PDF '10_física_3P_Taller Energía mecánica.pdf'`)
 
@@ -65,7 +67,7 @@ Definitiva con recuperación
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Física Décimo | **Actividad:** Taller de Energía Mecánica ($E_p$, $E_c$ y $E_m$) — Simulador PhET y Libro Santillana UNOi Ciencias 10° (Páginas 269–274 y 284–287)
 
@@ -158,7 +160,7 @@ Completando la tabla de verificación experimental para el patinador de **$m = 6
 ## ⚡ Mapa Mental Conceptual (Mermaid)
 ```mermaid
 graph TD
-    A[Física Clásica 10°] --> B[Cinemática y Dinámica]
+    A[Física Clásica] --> B[Cinemática y Dinámica]
     A --> C[Leyes de Newton y Fuerzas]
     B --> B1[Movimiento Circular Uniforme MCU]
     B --> B2[Aceleración Centrípeta y Velocidad Tangencial]

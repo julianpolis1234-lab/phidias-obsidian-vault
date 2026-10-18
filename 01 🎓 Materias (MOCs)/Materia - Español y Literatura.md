@@ -12,11 +12,21 @@ tags:
 
 > [!SUMMARY] **Resumen de la Materia**
 > * **Total de Asignaciones:** `4`
-> * **Libro Guía Santillana:** [[Santillana UNOi 10°]]
+> * **Libro Guía Santillana:** [[Santillana - Lenguaje 10°]]
 
 ---
 
-## 📋 Lista de Asignaciones y Evaluaciones
+## ⚡ Vista Dinámica Dataview (Actualización en Vivo)
+```dataview
+TABLE estado AS "Estado", fecha_entrega AS "Fecha Límite", paginas_santillana AS "Páginas Santillana"
+FROM "02 📝 Asignaciones y Tareas"
+WHERE materia = "Español y Literatura"
+SORT fecha_entrega ASC
+```
+
+---
+
+## 📋 Lista Estática de Asignaciones y Evaluaciones
 - [ ] [[Quiz - Examen - Quiz literatura siglo XX - XXI.]] — Fecha: `Quiz literatura siglo XX - XXI. oct 20, 09:30` | **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
 - [ ] [[Nota - N.A. - Taller propaganda y anuncio publicitario - 173-177 .]] — Fecha: `jueves 01 oct` | **🟡 Pendientes (Esta semana)**
 - [ ] [[Nota - N.A. - Taller - comunicación y séptimo arte - . 207-211.]] — Fecha: `martes 13 oct` | **🟡 Pendientes (Esta semana)**

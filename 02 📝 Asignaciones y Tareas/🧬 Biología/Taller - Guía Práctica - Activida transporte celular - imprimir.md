@@ -3,6 +3,7 @@ id: "task_24"
 title: "Taller / Guía Práctica: Activida transporte celular - imprimir"
 materia: "Biología"
 materia_phidias: "Biología Décimo"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "Clase, martes 29 septiembre 23:59"
 estado: "🔴 Atrasadas (Semana pasada)"
@@ -11,17 +12,18 @@ paginas_santillana: "Guía PDF 'Activida transporte celular - imprimir.pdf' (Pá
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - biologa
 ---
 
 # 📝 Taller / Guía Práctica: Activida transporte celular - imprimir
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Biología|Biología]]
+> * **Asignatura:** [[Materia - Biología|Biología]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `Clase, martes 29 septiembre 23:59`
-> * **Estado:** **🔴 Atrasadas (Semana pasada)**
+> * **Estado Académico:** **🔴 Atrasadas (Semana pasada)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/academic/assignment/details?assignment=12000&person=2046&_ach=60679dba5ad9aa8d9bb573ebd76ad3f8)
 > * **Libro Guía Santillana:** [[Santillana - Biología 10°]] (`Guía PDF 'Activida transporte celular - imprimir.pdf' (Págs. 1 a 7, Puntos 1 al 12) + Santillana Págs. 151–155`)
 
@@ -119,7 +121,7 @@ En todos los sistemas vivos, desde los procariontes a los eucariontes pl
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Biología Décimo | **Actividad:** Taller Completo "Transporte a través de la Membrana" (Páginas 1 a 7 del PDF — Puntos 1 al 12)
 

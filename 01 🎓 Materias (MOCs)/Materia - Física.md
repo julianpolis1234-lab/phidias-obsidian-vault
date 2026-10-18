@@ -16,7 +16,17 @@ tags:
 
 ---
 
-## 📋 Lista de Asignaciones y Evaluaciones
+## ⚡ Vista Dinámica Dataview (Actualización en Vivo)
+```dataview
+TABLE estado AS "Estado", fecha_entrega AS "Fecha Límite", paginas_santillana AS "Páginas Santillana"
+FROM "02 📝 Asignaciones y Tareas"
+WHERE materia = "Física"
+SORT fecha_entrega ASC
+```
+
+---
+
+## 📋 Lista Estática de Asignaciones y Evaluaciones
 - [ ] [[Nota - 1 - Taller energía (EP, EC Y EM) PHET]] — Fecha: `jueves 10 sep` | **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
 - [ ] [[Nota - N.A. - Lectura previa EC, EP y Em]] — Fecha: `jueves 20 ago` | **🟡 Pendientes (Esta semana)**
 - [ ] [[Nota - N.A. - Quiz circuitos]] — Fecha: `martes 20 oct` | **🟡 Pendientes (Esta semana)**

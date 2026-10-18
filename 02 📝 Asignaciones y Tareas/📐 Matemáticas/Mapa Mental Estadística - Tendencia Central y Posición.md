@@ -3,6 +3,7 @@ id: "task_32"
 title: "Mapa Mental Estadística: Tendencia Central y Posición"
 materia: "Matemáticas"
 materia_phidias: "Matemáticas Décimo"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "Clase, jueves 27 agosto 07:30"
 estado: "🔴 Atrasadas (Semana pasada)"
@@ -11,17 +12,18 @@ paginas_santillana: "Págs. 260–275 (Zonas de Entrenamiento en Págs. 266, 272
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - matemticas
 ---
 
 # 📝 Mapa Mental Estadística: Tendencia Central y Posición
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Matemáticas|Matemáticas]]
+> * **Asignatura:** [[Materia - Matemáticas|Matemáticas]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `Clase, jueves 27 agosto 07:30`
-> * **Estado:** **🔴 Atrasadas (Semana pasada)**
+> * **Estado Académico:** **🔴 Atrasadas (Semana pasada)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/academic/assignment/details?assignment=11874&person=2046&_ach=35377379b96b6bd49146b862eccf702d)
 > * **Libro Guía Santillana:** [[Santillana - Matemáticas 10°]] (`Págs. 260–275 (Zonas de Entrenamiento en Págs. 266, 272–275)`)
 
@@ -46,7 +48,7 @@ Estadística
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Matemáticas Décimo | **Actividad:** Consulta y Ejercicios: Técnicas de Conteo, Permutaciones y Combinaciones (Páginas 286 a 291 — Santillana UNOi Matemáticas 10°)
 

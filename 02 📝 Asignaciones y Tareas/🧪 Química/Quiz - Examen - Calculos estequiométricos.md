@@ -3,6 +3,7 @@ id: "task_2"
 title: "[Quiz/Examen] Calculos estequiométricos"
 materia: "Química"
 materia_phidias: "Química"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "Calculos estequiométricos sep 04, 23:59 - Pen"
 estado: "🚨 Nota Baja / Recuperación (0.0 - 3.5)"
@@ -11,19 +12,21 @@ paginas_santillana: "Págs. 130–141"
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - qumica
   - evaluacion
+  - flashcards
   - prioridad_alta
 ---
 
 # 📝 [Quiz/Examen] Calculos estequiométricos
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Química|Química]]
+> * **Asignatura:** [[Materia - Química|Química]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `Calculos estequiométricos sep 04, 23:59 - Pen`
-> * **Estado:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
+> * **Estado Académico:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/academic/exam/score/outcome?exam=591&person=2046)
 > * **Libro Guía Santillana:** [[Santillana - Química 10°]] (`Págs. 130–141`)
 
@@ -61,7 +64,7 @@ Definitiva con recuperación
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Química Décimo | **Actividad:** Consulta y Ejercicios de Cálculos Estequiométricos (Páginas 130 a 141 — Santillana UNOi Ciencias 10°)
 
@@ -205,7 +208,7 @@ $$\text{Moles de A (conocido)} \xrightarrow{\times \frac{\text{Coef. B}}{\text{C
 ## 🧬 Mapa Mental Conceptual (Mermaid)
 ```mermaid
 graph TD
-    A[Química Grado 10°] --> B[Estequiometría Págs 130-141]
+    A[Química Escolar] --> B[Estequiometría Págs 130-141]
     A --> C[Equilibrio en Soluciones Págs 162-168]
     B --> B1[Leyes Ponderales Lavoisier y Proust]
     B --> B2[Cálculos Mol-Masa y Reactivo Límite]

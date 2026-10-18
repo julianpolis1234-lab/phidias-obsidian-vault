@@ -2,7 +2,7 @@
 title: "Dashboard Central Phidias & Santillana AI"
 estudiante: "Julian Camilo Monroy Rozo"
 colegio: "Liceo Moderno Celestín Freinet"
-grado: "10°"
+grado: "10° (Universal 6° a 11°)"
 total_tareas: 34
 tags:
   - dashboard
@@ -13,14 +13,30 @@ tags:
 
 # 🚀 Centro de Control Phidias & Santillana AI
 
-Bienvenido a tu base de conocimiento académica centralizada y profesional en **Obsidian**.
+Bienvenido al ecosistema académico inteligente en **Obsidian**.
 Aquí tienes todas tus **34 asignaciones de Phidias** completamente resueltas, cruzadas con los libros impresos de **Santillana UNOi** y conectadas bidireccionalmente.
 
-> [!TIP] **Acceso Rápido Visual**
-> * 🗺️ **Explorar en lienzo visual interactivo:** [[02 - 🗺️ Red de Conocimiento Phidias.canvas]]
-> * 🚨 **Ver solo notas bajas / recuperaciones:** [[01 - 🚨 Tareas Urgentes y Recuperación]]
-> * 📚 **Biblioteca Santillana UNOi:** Consulta la carpeta `03 📚 Biblioteca Santillana UNOi`
-> * 🧠 **Formularios y Defensa:** Consulta la carpeta `04 🧠 Recursos y Fórmulas`
+> [!TIP] **Acceso Rápido Visual y Herramientas**
+> * 🗺️ **Lienzo Visual Infinito:** [[02 - 🗺️ Red de Conocimiento Phidias.canvas]]
+> * 🚨 **Plan de Choque (Notas Bajas 0.0 - 3.5):** [[01 - 🚨 Tareas Urgentes y Recuperación]]
+> * 🗂️ **Banco de Flashcards para Exámenes:** [[04 - 🗂️ Banco de Flashcards y Preguntas de Examen]]
+> * 👥 **Directorio y Red de Compañeros:** [[03 - 👥 Directorio y Red de Compañeros]]
+> * 📚 **Biblioteca Santillana UNOi:** Consulta `03 📚 Biblioteca Santillana UNOi`
+> * 🧠 **Formularios y Defensa:** Consulta `04 🧠 Recursos y Fórmulas`
+
+---
+
+## ⚡ Vista Dinámica Dataview (Actualizada en Tiempo Real)
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Tarea / Examen",
+  materia AS "Asignatura",
+  fecha_entrega AS "Fecha Límite",
+  estado AS "Estado",
+  paginas_santillana AS "Páginas Santillana"
+FROM "02 📝 Asignaciones y Tareas"
+SORT fecha_entrega ASC
+```
 
 ---
 
@@ -30,12 +46,12 @@ Aquí tienes todas tus **34 asignaciones de Phidias** completamente resueltas, c
 | :--- | :---: | :---: | :--- | :--- |
 | **Biología** | `2` | 🟢 Al día | [[Santillana - Biología 10°]] | [[Materia - Biología\|Ver notas]] |
 | **Ciencias Sociales** | `3` | 🚨 `1` en recuperación | [[Santillana - Sociales 10°]] | [[Materia - Ciencias Sociales\|Ver notas]] |
-| **Emprendimiento** | `3` | 🟢 Al día | [[Santillana - Sociales 10°]] | [[Materia - Emprendimiento\|Ver notas]] |
-| **Español y Literatura** | `4` | 🚨 `2` en recuperación | [[Santillana UNOi 10°]] | [[Materia - Español y Literatura\|Ver notas]] |
+| **Emprendimiento** | `3` | 🟢 Al día | [[Santillana - Emprendimiento y Liderazgo]] | [[Materia - Emprendimiento\|Ver notas]] |
+| **Español y Literatura** | `4` | 🚨 `2` en recuperación | [[Santillana - Lenguaje 10°]] | [[Materia - Español y Literatura\|Ver notas]] |
 | **Física** | `6` | 🚨 `1` en recuperación | [[Santillana - Física 10°]] | [[Materia - Física\|Ver notas]] |
 | **Matemáticas** | `4` | 🚨 `2` en recuperación | [[Santillana - Matemáticas 10°]] | [[Materia - Matemáticas\|Ver notas]] |
 | **Química** | `8` | 🚨 `6` en recuperación | [[Santillana - Química 10°]] | [[Materia - Química\|Ver notas]] |
-| **Ética y Valores** | `4` | 🚨 `2` en recuperación | [[Santillana UNOi 10°]] | [[Materia - Ética y Valores\|Ver notas]] |
+| **Ética y Valores** | `4` | 🚨 `2` en recuperación | [[Santillana - Ética y Valores]] | [[Materia - Ética y Valores\|Ver notas]] |
 
 ---
 
@@ -82,5 +98,5 @@ Aquí tienes todas tus **34 asignaciones de Phidias** completamente resueltas, c
 
 ## 🧠 Flujo de Trabajo y Sincronización GitHub
 1. **Sincronización en vivo:** Cada vez que resuelvas, edites o agregues una tarea desde la aplicación web (`http://localhost:8501`), esta se actualiza automáticamente aquí.
-2. **Auto-Push a GitHub:** Con el plugin **Obsidian Git** instalado y el sincronizador automático en segundo plano, todas tus notas se respaldan en GitHub automáticamente.
-3. **Entregas en Word (.docx):** Cada nota cuenta con su enlace local para abrir o descargar el documento formal listo para entrega escolar.
+2. **Auto-Push a GitHub:** Con el plugin **Obsidian Git** y el centinela en segundo plano, todas las notas se respaldan en GitHub automáticamente.
+3. **Entregas en Word (.docx):** Cada nota cuenta con su enlace local para abrir o descargar el documento formal listo para imprimir.

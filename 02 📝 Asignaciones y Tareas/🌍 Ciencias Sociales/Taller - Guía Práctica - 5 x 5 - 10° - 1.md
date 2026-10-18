@@ -3,6 +3,7 @@ id: "task_28"
 title: "Taller / Guía Práctica: 5 x 5 - 10° - 1"
 materia: "Ciencias Sociales"
 materia_phidias: "Ciencias Sociales Décimo"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "Clase, miércoles 14 octubre 23:59"
 estado: "🔴 Atrasadas (Semana pasada)"
@@ -11,17 +12,18 @@ paginas_santillana: "Págs. 126–155 + Guía PDF '5 x 5 - 10° - 1.pdf'"
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - ciencias_sociales
 ---
 
 # 📝 Taller / Guía Práctica: 5 x 5 - 10° - 1
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Ciencias Sociales|Ciencias Sociales]]
+> * **Asignatura:** [[Materia - Ciencias Sociales|Ciencias Sociales]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `Clase, miércoles 14 octubre 23:59`
-> * **Estado:** **🔴 Atrasadas (Semana pasada)**
+> * **Estado Académico:** **🔴 Atrasadas (Semana pasada)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/academic/assignment/details?assignment=12018&person=2046&_ach=1bb7c4d4d2a7660e22ce7d1b3c971086)
 > * **Libro Guía Santillana:** [[Santillana - Sociales 10°]] (`Págs. 126–155 + Guía PDF '5 x 5 - 10° - 1.pdf'`)
 
@@ -53,7 +55,7 @@ Soluciona en tu cuaderno de ciencias Sociales, los siguientes ejercicios, tenien
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Ciencias Sociales Décimo | **Actividad:** Estrategia 5x5 Sociales y Competencias Ciudadanas (`5 x 5 - 10° - 1.pdf` + Santillana UNOi Sociales 10° Págs. 126–155)
 

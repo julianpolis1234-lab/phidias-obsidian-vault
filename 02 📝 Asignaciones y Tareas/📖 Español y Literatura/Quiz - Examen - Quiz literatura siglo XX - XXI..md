@@ -3,6 +3,7 @@ id: "task_15"
 title: "[Quiz/Examen] Quiz literatura siglo XX - XXI."
 materia: "Español y Literatura"
 materia_phidias: "Español y Comprensión Lectora"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "Quiz literatura siglo XX - XXI. oct 20, 09:30"
 estado: "🚨 Nota Baja / Recuperación (0.0 - 3.5)"
@@ -11,19 +12,21 @@ paginas_santillana: "Págs. 106–146"
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - espaol_y_literatura
   - evaluacion
+  - flashcards
   - prioridad_alta
 ---
 
 # 📝 [Quiz/Examen] Quiz literatura siglo XX - XXI.
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Español y Literatura|Español y Literatura]]
+> * **Asignatura:** [[Materia - Español y Literatura|Español y Literatura]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `Quiz literatura siglo XX - XXI. oct 20, 09:30`
-> * **Estado:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
+> * **Estado Académico:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/academic/exam/take?exam=674&person=2046)
 > * **Libro Guía Santillana:** [[Santillana - Lenguaje 10°]] (`Págs. 106–146`)
 
@@ -61,7 +64,7 @@ Definitiva con recuperación
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Español y Comprensión Lectora | **Actividad:** Taller Propaganda y Anuncio Publicitario — Páginas 173 a 177 (Libro Santillana UNOi Competencias Comunicativas 10°)
 

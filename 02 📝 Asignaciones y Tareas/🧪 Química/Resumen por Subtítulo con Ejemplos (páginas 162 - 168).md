@@ -3,6 +3,7 @@ id: "task_26"
 title: "Resumen por Subtítulo con Ejemplos (páginas 162 - 168)"
 materia: "Química"
 materia_phidias: "Química Décimo"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "Clase, miércoles 14 octubre 23:59"
 estado: "🔴 Atrasadas (Semana pasada)"
@@ -11,17 +12,18 @@ paginas_santillana: "Págs. 162–168 (Saltando el taller de la Pág. 166)"
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - qumica
 ---
 
 # 📝 Resumen por Subtítulo con Ejemplos (páginas 162 - 168)
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Química|Química]]
+> * **Asignatura:** [[Materia - Química|Química]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `Clase, miércoles 14 octubre 23:59`
-> * **Estado:** **🔴 Atrasadas (Semana pasada)**
+> * **Estado Académico:** **🔴 Atrasadas (Semana pasada)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/academic/assignment/details?assignment=12001&person=2046&_ach=07fbce70885bf1d060fad09befa77e8f)
 > * **Libro Guía Santillana:** [[Santillana - Química 10°]] (`Págs. 162–168 (Saltando el taller de la Pág. 166)`)
 
@@ -41,7 +43,7 @@ Buenas tardes estimados estudiantes. Por favor leer las páginas 162 - 168 [Salt
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Química Décimo | **Actividad:** Resumen por Subtítulo con Ejemplos — Páginas 162 a 168 (Saltando el taller de la pág. 166)
 
@@ -202,7 +204,7 @@ Siguiendo al pie de la letra la instrucción del profesor en Phidias (*«leer la
 ## 🧬 Mapa Mental Conceptual (Mermaid)
 ```mermaid
 graph TD
-    A[Química Grado 10°] --> B[Estequiometría Págs 130-141]
+    A[Química Escolar] --> B[Estequiometría Págs 130-141]
     A --> C[Equilibrio en Soluciones Págs 162-168]
     B --> B1[Leyes Ponderales Lavoisier y Proust]
     B --> B2[Cálculos Mol-Masa y Reactivo Límite]

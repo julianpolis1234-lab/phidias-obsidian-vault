@@ -3,6 +3,7 @@ id: "task_18"
 title: "[Nota: 2] Control de lectura #1."
 materia: "Español y Literatura"
 materia_phidias: "Español y Comprensión Lectora"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "martes 25 ago"
 estado: "🚨 Nota Baja / Recuperación (0.0 - 3.5)"
@@ -11,7 +12,7 @@ paginas_santillana: "Págs. 106–146"
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - espaol_y_literatura
   - prioridad_alta
 ---
@@ -19,10 +20,11 @@ tags:
 # 📝 [Nota: 2] Control de lectura #1.
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Español y Literatura|Español y Literatura]]
+> * **Asignatura:** [[Materia - Español y Literatura|Español y Literatura]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `martes 25 ago`
-> * **Estado:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
+> * **Estado Académico:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/v4/academic/course/group/dashboard?person=2046&period=64&group=5249)
 > * **Libro Guía Santillana:** [[Santillana - Lenguaje 10°]] (`Págs. 106–146`)
 
@@ -62,7 +64,7 @@ Definitiva con recuperación
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Español y Comprensión Lectora | **Actividad:** Taller Propaganda y Anuncio Publicitario — Páginas 173 a 177 (Libro Santillana UNOi Competencias Comunicativas 10°)
 

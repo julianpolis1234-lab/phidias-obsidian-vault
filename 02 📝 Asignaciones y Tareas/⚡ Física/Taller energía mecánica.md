@@ -3,6 +3,7 @@ id: "task_23"
 title: "Taller energía mecánica"
 materia: "Física"
 materia_phidias: "Física Décimo"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "Clase, viernes 04 septiembre 23:59"
 estado: "🔴 Atrasadas (Semana pasada)"
@@ -11,17 +12,18 @@ paginas_santillana: "Págs. 269–274 y 284–287 + Guía PDF '10_física_3P_Tal
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - fsica
 ---
 
 # 📝 Taller energía mecánica
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Física|Física]]
+> * **Asignatura:** [[Materia - Física|Física]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `Clase, viernes 04 septiembre 23:59`
-> * **Estado:** **🔴 Atrasadas (Semana pasada)**
+> * **Estado Académico:** **🔴 Atrasadas (Semana pasada)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/academic/assignment/details?assignment=11885&person=2046&_ach=0f94df806404d2da95e3d8be9cc7c165)
 > * **Libro Guía Santillana:** [[Santillana - Física 10°]] (`Págs. 269–274 y 284–287 + Guía PDF '10_física_3P_Taller Energía mecánica.pdf'`)
 
@@ -43,7 +45,7 @@ La próxima clase se recogera el cuaderno para calificar el taller y se realizar
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Física Décimo | **Actividad:** Taller de Energía Mecánica ($E_p$, $E_c$ y $E_m$) — Simulador PhET y Libro Santillana UNOi Ciencias 10° (Páginas 269–274 y 284–287)
 
@@ -143,7 +145,7 @@ Completando la tabla de verificación experimental para el patinador de **$m = 6
 ## ⚡ Mapa Mental Conceptual (Mermaid)
 ```mermaid
 graph TD
-    A[Física Clásica 10°] --> B[Cinemática y Dinámica]
+    A[Física Clásica] --> B[Cinemática y Dinámica]
     A --> C[Leyes de Newton y Fuerzas]
     B --> B1[Movimiento Circular Uniforme MCU]
     B --> B2[Aceleración Centrípeta y Velocidad Tangencial]

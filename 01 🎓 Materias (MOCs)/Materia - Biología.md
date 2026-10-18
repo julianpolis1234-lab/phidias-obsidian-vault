@@ -16,7 +16,17 @@ tags:
 
 ---
 
-## 📋 Lista de Asignaciones y Evaluaciones
+## ⚡ Vista Dinámica Dataview (Actualización en Vivo)
+```dataview
+TABLE estado AS "Estado", fecha_entrega AS "Fecha Límite", paginas_santillana AS "Páginas Santillana"
+FROM "02 📝 Asignaciones y Tareas"
+WHERE materia = "Biología"
+SORT fecha_entrega ASC
+```
+
+---
+
+## 📋 Lista Estática de Asignaciones y Evaluaciones
 - [ ] [[Taller - Guía Práctica - Activida transporte celular - imprimir]] — Fecha: `Clase, martes 29 septiembre 23:59` | **🔴 Atrasadas (Semana pasada)**
 - [ ] [[Consulta - Teoría Celular, Postulados y Endosimbiosis]] — Fecha: `Clase, lunes 24 agosto 23:59` | **🔴 Atrasadas (Semana pasada)**
 

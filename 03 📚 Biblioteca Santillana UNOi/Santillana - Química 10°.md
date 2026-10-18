@@ -6,14 +6,12 @@ tags:
   - santillana
   - libro_texto
   - unoi
-  - grado10
 ---
 
 # 📚 Santillana UNOi — Competencias Científicas 10° (Componente Químico)
 
-> [!BOOK] **Ficha del Libro Santillana UNOi**
+> [!BOOK] **Ficha Curricular Santillana UNOi**
 > * **Asignatura Relacionada:** [[Materia - Química|Química]]
-> * **Grado:** Décimo (10°)
 > * **Lector Flipbook Online:** [Abrir Flipbook Digital](https://online.fliphtml5.com/bndrs/qfhi/)
 
 ---

@@ -3,6 +3,7 @@ id: "task_25"
 title: "Consulta: Teoría Celular, Postulados y Endosimbiosis"
 materia: "Biología"
 materia_phidias: "Biología Décimo"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "Clase, lunes 24 agosto 23:59"
 estado: "🔴 Atrasadas (Semana pasada)"
@@ -11,17 +12,18 @@ paginas_santillana: "Págs. 21–29 + Consulta de los 4 Numerales del Profesor"
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - biologa
 ---
 
 # 📝 Consulta: Teoría Celular, Postulados y Endosimbiosis
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Biología|Biología]]
+> * **Asignatura:** [[Materia - Biología|Biología]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `Clase, lunes 24 agosto 23:59`
-> * **Estado:** **🔴 Atrasadas (Semana pasada)**
+> * **Estado Académico:** **🔴 Atrasadas (Semana pasada)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/academic/assignment/details?assignment=11864&person=2046&_ach=4e3db4982f18293f1dcc653daa9acc03)
 > * **Libro Guía Santillana:** [[Santillana - Biología 10°]] (`Págs. 21–29 + Consulta de los 4 Numerales del Profesor`)
 
@@ -47,7 +49,7 @@ NUMERAL Y ASIGNACIÓN
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Biología Décimo | **Actividad:** Consulta: Teoría Celular, Postulados, Endosimbiosis y Origen de la Vida (Santillana UNOi Ciencias 10° Págs. 21–29)
 

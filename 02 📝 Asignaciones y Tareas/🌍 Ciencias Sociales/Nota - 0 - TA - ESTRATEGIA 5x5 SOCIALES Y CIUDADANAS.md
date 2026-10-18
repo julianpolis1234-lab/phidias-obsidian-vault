@@ -3,6 +3,7 @@ id: "task_11"
 title: "[Nota: 0] TA - ESTRATEGIA 5x5 SOCIALES Y CIUDADANAS"
 materia: "Ciencias Sociales"
 materia_phidias: "Ciencias Sociales"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "viernes 16 oct"
 estado: "🚨 Nota Baja / Recuperación (0.0 - 3.5)"
@@ -11,7 +12,7 @@ paginas_santillana: "Págs. 126–155 + Guía PDF '5 x 5 - 10° - 1.pdf'"
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - ciencias_sociales
   - prioridad_alta
 ---
@@ -19,10 +20,11 @@ tags:
 # 📝 [Nota: 0] TA - ESTRATEGIA 5x5 SOCIALES Y CIUDADANAS
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Ciencias Sociales|Ciencias Sociales]]
+> * **Asignatura:** [[Materia - Ciencias Sociales|Ciencias Sociales]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `viernes 16 oct`
-> * **Estado:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
+> * **Estado Académico:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/v4/academic/course/group/dashboard?person=2046&period=64&group=5091)
 > * **Libro Guía Santillana:** [[Santillana - Sociales 10°]] (`Págs. 126–155 + Guía PDF '5 x 5 - 10° - 1.pdf'`)
 
@@ -65,7 +67,7 @@ Definitiva con recuperación
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Ciencias Sociales Décimo | **Actividad:** Estrategia 5x5 Sociales y Competencias Ciudadanas (`5 x 5 - 10° - 1.pdf` + Santillana UNOi Sociales 10° Págs. 126–155)
 

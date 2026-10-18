@@ -3,6 +3,7 @@ id: "task_34"
 title: "Entrega Final Consolidada: Ajustes Modelo Canvas"
 materia: "Emprendimiento"
 materia_phidias: "Proyecto de Emprendimiento Décimo"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "En línea, miércoles 30 septiembre 23:59"
 estado: "🔴 Atrasadas (Semana pasada)"
@@ -11,19 +12,20 @@ paginas_santillana: "Guía_Entrega_Investigacion_de_Mercado.docx + Plantilla_Ent
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - emprendimiento
 ---
 
 # 📝 Entrega Final Consolidada: Ajustes Modelo Canvas
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Emprendimiento|Emprendimiento]]
+> * **Asignatura:** [[Materia - Emprendimiento|Emprendimiento]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `En línea, miércoles 30 septiembre 23:59`
-> * **Estado:** **🔴 Atrasadas (Semana pasada)**
+> * **Estado Académico:** **🔴 Atrasadas (Semana pasada)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/academic/assignment/details?assignment=11911&person=2046&_ach=4c32801882825f99dc8fc08eba06a33f)
-> * **Libro Guía Santillana:** [[Santillana - Sociales 10°]] (`Guía_Entrega_Investigacion_de_Mercado.docx + Plantilla_Entregable_Modelo_Canvas.docx`)
+> * **Libro Guía Santillana:** [[Santillana - Emprendimiento y Liderazgo]] (`Guía_Entrega_Investigacion_de_Mercado.docx + Plantilla_Entregable_Modelo_Canvas.docx`)
 
 ---
 
@@ -57,7 +59,7 @@ Costeo_y_Precio_Canvas.xlsx
 ---
 
 ## 📖 2. Fundamentación Curricular Santillana UNOi
-* **Texto Guía:** [[Santillana - Sociales 10°|Guía Oficial de Proyectos 10° — Liceo Moderno Celestín Freinet (Docente Harold González Acevedo)]]
+* **Texto Guía:** [[Santillana - Emprendimiento y Liderazgo|Guía Oficial de Proyectos 10° — Liceo Moderno Celestín Freinet (Docente Harold González Acevedo)]]
 * **Unidad Temática:** Investigación de Mercado, Validación, Estructura de Costos y Modelo Canvas
 * **Páginas del libro físico:** **Guía_Entrega_Investigacion_de_Mercado.docx + Plantilla_Entregable_Modelo_Canvas.docx**
 * **Conceptos clave aplicados:** Desarrollo completo de la Ficha de Investigación de Mercado en Yopal, Casanare (1. Fuentes secundarias DANE y Cámara de Comercio de Casanare + mapeo de 3 competidores en Yopal; 2. Fuentes primarias: resultados en cifras de 18 encuestas y 5 entrevistas a Early Adopters; 3. Normativa sanitaria INVIMA categoría de riesgo y Cámara de Comercio; 4. Cotización real de 3 proveedores y costo unitario por porción; 5. Conclusión explícita 'La idea se valida' con datos de los 4 puntos), o consolidado de los 9 bloques del Modelo Canvas + Design Thinking + Mapa de Empatía + Propuesta de Valor, o guion de Sustentación Final (15 min exposición + 10 min preguntas).
@@ -65,7 +67,7 @@ Costeo_y_Precio_Canvas.xlsx
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Proyecto de Emprendimiento Décimo | **Docente:** Harold González Acevedo | **Actividad:** Entrega Final Consolidada: Ajustes Modelo Canvas, Design Thinking y Propuesta de Valor (*TapMeals*)
 

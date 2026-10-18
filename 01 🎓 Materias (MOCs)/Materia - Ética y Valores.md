@@ -12,11 +12,21 @@ tags:
 
 > [!SUMMARY] **Resumen de la Materia**
 > * **Total de Asignaciones:** `4`
-> * **Libro Guía Santillana:** [[Santillana UNOi 10°]]
+> * **Libro Guía Santillana:** [[Santillana - Ética y Valores]]
 
 ---
 
-## 📋 Lista de Asignaciones y Evaluaciones
+## ⚡ Vista Dinámica Dataview (Actualización en Vivo)
+```dataview
+TABLE estado AS "Estado", fecha_entrega AS "Fecha Límite", paginas_santillana AS "Páginas Santillana"
+FROM "02 📝 Asignaciones y Tareas"
+WHERE materia = "Ética y Valores"
+SORT fecha_entrega ASC
+```
+
+---
+
+## 📋 Lista Estática de Asignaciones y Evaluaciones
 - [ ] [[Quiz - Examen - Quiz conceptos John Stuart Mill.]] — Fecha: `Quiz conceptos John Stuart Mill. oct 15, 11:0` | **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
 - [ ] [[Nota - 0 - Tarea - apuntes de lectura tratado sobre la libertad.]] — Fecha: `martes 08 sep` | **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
 - [ ] [[Nota - N.A. - Quiz conceptos John Stuart Mill - pleno]] — Fecha: `viernes 16 oct` | **🟡 Pendientes (Esta semana)**

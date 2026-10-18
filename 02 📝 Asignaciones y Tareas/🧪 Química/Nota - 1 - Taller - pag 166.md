@@ -3,6 +3,7 @@ id: "task_7"
 title: "[Nota: 1] Taller: pag 166"
 materia: "Química"
 materia_phidias: "Química"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "miércoles 14 oct"
 estado: "🚨 Nota Baja / Recuperación (0.0 - 3.5)"
@@ -11,7 +12,7 @@ paginas_santillana: "Pág. 166 (con teoría base en Págs. 163–165)"
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - qumica
   - prioridad_alta
 ---
@@ -19,10 +20,11 @@ tags:
 # 📝 [Nota: 1] Taller: pag 166
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Química|Química]]
+> * **Asignatura:** [[Materia - Química|Química]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `miércoles 14 oct`
-> * **Estado:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
+> * **Estado Académico:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/v4/academic/course/group/dashboard?person=2046&period=64&group=5059)
 > * **Libro Guía Santillana:** [[Santillana - Química 10°]] (`Pág. 166 (con teoría base en Págs. 163–165)`)
 
@@ -70,7 +72,7 @@ Definitiva con recuperación
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Química Décimo | **Actividad:** Taller Zona de Entrenamiento — Página 166 (Libro Santillana UNOi Ciencias 10°)
 
@@ -185,7 +187,7 @@ Aplicando la teoría de Svante Arrhenius vista en la **página 164** (donde los 
 ## 🧬 Mapa Mental Conceptual (Mermaid)
 ```mermaid
 graph TD
-    A[Química Grado 10°] --> B[Estequiometría Págs 130-141]
+    A[Química Escolar] --> B[Estequiometría Págs 130-141]
     A --> C[Equilibrio en Soluciones Págs 162-168]
     B --> B1[Leyes Ponderales Lavoisier y Proust]
     B --> B2[Cálculos Mol-Masa y Reactivo Límite]

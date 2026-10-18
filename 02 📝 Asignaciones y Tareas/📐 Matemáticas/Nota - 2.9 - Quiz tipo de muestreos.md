@@ -3,6 +3,7 @@ id: "task_20"
 title: "[Nota: 2.9] Quiz tipo de muestreos"
 materia: "Matemáticas"
 materia_phidias: "Matemáticas"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "lunes 07 sep"
 estado: "🚨 Nota Baja / Recuperación (0.0 - 3.5)"
@@ -11,19 +12,21 @@ paginas_santillana: "Págs. 254–259 (Zona de Entrenamiento en Págs. 258–259
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - matemticas
   - evaluacion
+  - flashcards
   - prioridad_alta
 ---
 
 # 📝 [Nota: 2.9] Quiz tipo de muestreos
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Matemáticas|Matemáticas]]
+> * **Asignatura:** [[Materia - Matemáticas|Matemáticas]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `lunes 07 sep`
-> * **Estado:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
+> * **Estado Académico:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/v4/academic/course/group/dashboard?person=2046&period=64&group=5305)
 > * **Libro Guía Santillana:** [[Santillana - Matemáticas 10°]] (`Págs. 254–259 (Zona de Entrenamiento en Págs. 258–259)`)
 
@@ -68,7 +71,7 @@ Definitiva con recuperación
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Matemáticas y Estadística Décimo | **Actividad:** Solucionario y Recuperación: Nociones de Estadística y Tipos de Muestreo (Páginas 254 a 259 — Santillana UNOi Matemáticas 10°)
 

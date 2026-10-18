@@ -3,6 +3,7 @@ id: "task_21"
 title: "Taller Práctico de Circuitos Eléctricos (Serie, Paralelo y Mixto)"
 materia: "Física"
 materia_phidias: "Física Décimo"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "Clase, martes 20 octubre 23:59"
 estado: "🟡 Pendientes (Esta semana)"
@@ -11,17 +12,18 @@ paginas_santillana: "Guía Oficial Circuitos.pdf + Consulta Ley de Ohm"
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - fsica
 ---
 
 # 📝 Taller Práctico de Circuitos Eléctricos (Serie, Paralelo y Mixto)
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Física|Física]]
+> * **Asignatura:** [[Materia - Física|Física]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `Clase, martes 20 octubre 23:59`
-> * **Estado:** **🟡 Pendientes (Esta semana)**
+> * **Estado Académico:** **🟡 Pendientes (Esta semana)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/academic/assignment/details?assignment=12029&person=2046&_ach=909dcaedde5abac41ba4b53ce4f3960f)
 > * **Libro Guía Santillana:** [[Santillana - Física 10°]] (`Guía Oficial Circuitos.pdf + Consulta Ley de Ohm`)
 
@@ -120,7 +122,7 @@ Estudiante:  Fecha:  Puntos obtenidos
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Física Décimo | **Actividad:** Taller Práctico de Circuitos Eléctricos (`Circuitos.pdf` — 5 Puntos Completos)
 
@@ -237,7 +239,7 @@ Para resolver este taller descargué el archivo oficial **`Circuitos.pdf`** subi
 ## ⚡ Mapa Mental Conceptual (Mermaid)
 ```mermaid
 graph TD
-    A[Física Clásica 10°] --> B[Cinemática y Dinámica]
+    A[Física Clásica] --> B[Cinemática y Dinámica]
     A --> C[Leyes de Newton y Fuerzas]
     B --> B1[Movimiento Circular Uniforme MCU]
     B --> B2[Aceleración Centrípeta y Velocidad Tangencial]

@@ -3,6 +3,7 @@ id: "task_19"
 title: "[Nota: 0] Tarea tendencia central y posición"
 materia: "Matemáticas"
 materia_phidias: "Matemáticas"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "jueves 27 ago"
 estado: "🚨 Nota Baja / Recuperación (0.0 - 3.5)"
@@ -11,7 +12,7 @@ paginas_santillana: "Págs. 260–275 (Zonas de Entrenamiento en Págs. 266, 272
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - matemticas
   - prioridad_alta
 ---
@@ -19,10 +20,11 @@ tags:
 # 📝 [Nota: 0] Tarea tendencia central y posición
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Matemáticas|Matemáticas]]
+> * **Asignatura:** [[Materia - Matemáticas|Matemáticas]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `jueves 27 ago`
-> * **Estado:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
+> * **Estado Académico:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/v4/academic/course/group/dashboard?person=2046&period=64&group=5305)
 > * **Libro Guía Santillana:** [[Santillana - Matemáticas 10°]] (`Págs. 260–275 (Zonas de Entrenamiento en Págs. 266, 272–275)`)
 
@@ -67,7 +69,7 @@ Definitiva con recuperación
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Matemáticas y Estadística Décimo | **Actividad:** Solucionario y Recuperación: Nociones de Estadística y Tipos de Muestreo (Páginas 254 a 259 — Santillana UNOi Matemáticas 10°)
 

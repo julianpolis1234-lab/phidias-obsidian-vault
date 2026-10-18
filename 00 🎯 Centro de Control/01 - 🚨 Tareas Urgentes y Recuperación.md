@@ -11,6 +11,22 @@ tags:
 
 Este tablero reúne las **14 asignaciones críticas** de Phidias que definen la aprobación de las asignaturas en riesgo para el periodo.
 
+## ⚡ Vista Dinámica Dataview de Tareas en Riesgo
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Asignación Crítica",
+  materia AS "Materia",
+  fecha_entrega AS "Fecha Límite",
+  estado AS "Nota / Estado",
+  paginas_santillana AS "Páginas Santillana"
+FROM "02 📝 Asignaciones y Tareas"
+WHERE contains(tags, "prioridad_alta")
+SORT fecha_entrega ASC
+```
+
+---
+
+## 📋 Lista Estática de Asignaciones Críticas
 | Asignación Crítica | Materia | Fecha Phidias | Estado / Nota | Ref. Santillana |
 | :--- | :--- | :--- | :--- | :--- |
 | [[Quiz - Examen - Calculos estequiométricos]] | [[Materia - Química\|Química]] | `Calculos estequiométricos sep 04, 23:59 - Pen` | **🚨 Nota Baja / Recuperación (0.0 - 3.5)** | `Págs. 130–141` |

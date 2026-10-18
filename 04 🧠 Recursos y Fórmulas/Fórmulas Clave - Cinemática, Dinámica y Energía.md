@@ -3,15 +3,13 @@ materia: "Física"
 tags:
   - formulas
   - fisica
-  - dinamica
   - energia
 ---
 
-# ⚡ Fórmulas Clave: Física Clásica (10°)
+# ⚡ Fórmulas Clave: Física Clásica
 
 ### 1. Movimiento Circular Uniforme (MCU)
 * **Velocidad Angular ($\omega$):** $\omega = 2\pi f = \frac{2\pi}{T}$
-* **Velocidad Tangencial ($v$):** $v = \omega \cdot R$
 * **Aceleración Centrípeta ($a_c$):** $a_c = \frac{v^2}{R} = \omega^2 \cdot R$
 * **Fuerza Centrípeta ($F_c$):** $F_c = m \cdot a_c = \frac{m v^2}{R}$
 

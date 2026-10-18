@@ -16,7 +16,17 @@ tags:
 
 ---
 
-## 📋 Lista de Asignaciones y Evaluaciones
+## ⚡ Vista Dinámica Dataview (Actualización en Vivo)
+```dataview
+TABLE estado AS "Estado", fecha_entrega AS "Fecha Límite", paginas_santillana AS "Páginas Santillana"
+FROM "02 📝 Asignaciones y Tareas"
+WHERE materia = "Química"
+SORT fecha_entrega ASC
+```
+
+---
+
+## 📋 Lista Estática de Asignaciones y Evaluaciones
 - [ ] [[Quiz - Examen - Calculos estequiométricos]] — Fecha: `Calculos estequiométricos sep 04, 23:59 - Pen` | **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
 - [ ] [[Quiz - Examen - Equilibrio en solucione químicas]] — Fecha: `Equilibrio en solucione químicas oct 22, 23:5` | **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
 - [ ] [[Nota - 1 - Tarea - consulta estequiometría]] — Fecha: `viernes 04 sep` | **🚨 Nota Baja / Recuperación (0.0 - 3.5)**

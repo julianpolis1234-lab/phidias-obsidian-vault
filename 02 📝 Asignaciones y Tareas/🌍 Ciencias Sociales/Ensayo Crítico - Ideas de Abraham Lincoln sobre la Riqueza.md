@@ -3,6 +3,7 @@ id: "task_29"
 title: "Ensayo Crítico: Ideas de Abraham Lincoln sobre la Riqueza"
 materia: "Ciencias Sociales"
 materia_phidias: "Ciencias Sociales Décimo"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "Clase, miércoles 09 septiembre 23:59"
 estado: "🔴 Atrasadas (Semana pasada)"
@@ -11,17 +12,18 @@ paginas_santillana: "Págs. 176–182 y 203–208"
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - ciencias_sociales
 ---
 
 # 📝 Ensayo Crítico: Ideas de Abraham Lincoln sobre la Riqueza
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Ciencias Sociales|Ciencias Sociales]]
+> * **Asignatura:** [[Materia - Ciencias Sociales|Ciencias Sociales]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `Clase, miércoles 09 septiembre 23:59`
-> * **Estado:** **🔴 Atrasadas (Semana pasada)**
+> * **Estado Académico:** **🔴 Atrasadas (Semana pasada)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/academic/assignment/details?assignment=11926&person=2046&_ach=89ec8bcfe7c1dff63d75a6bfdc74ab31)
 > * **Libro Guía Santillana:** [[Santillana - Sociales 10°]] (`Págs. 176–182 y 203–208`)
 
@@ -43,7 +45,7 @@ Caligrafía y redacción.
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Ciencias Sociales Décimo | **Actividad:** Ensayo Crítico Argumentativo: Ideas de Abraham Lincoln frente a la Riqueza Económica (Santillana UNOi Sociales 10° Págs. 176–182 y 203–208)
 

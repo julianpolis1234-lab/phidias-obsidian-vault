@@ -3,6 +3,7 @@ id: "task_5"
 title: "[Nota: 1] Resumen equilibrio químico"
 materia: "Química"
 materia_phidias: "Química"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "lunes 14 sep"
 estado: "🚨 Nota Baja / Recuperación (0.0 - 3.5)"
@@ -11,7 +12,7 @@ paginas_santillana: "Págs. 162–168 (Saltando el taller de la Pág. 166)"
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - qumica
   - prioridad_alta
 ---
@@ -19,10 +20,11 @@ tags:
 # 📝 [Nota: 1] Resumen equilibrio químico
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Química|Química]]
+> * **Asignatura:** [[Materia - Química|Química]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `lunes 14 sep`
-> * **Estado:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
+> * **Estado Académico:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/v4/academic/course/group/dashboard?person=2046&period=64&group=5059)
 > * **Libro Guía Santillana:** [[Santillana - Química 10°]] (`Págs. 162–168 (Saltando el taller de la Pág. 166)`)
 
@@ -69,7 +71,7 @@ Definitiva con recuperación
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Química Décimo | **Actividad:** Resumen por Subtítulo con Ejemplos — Páginas 162 a 168 (Saltando el taller de la pág. 166)
 
@@ -188,7 +190,7 @@ Siguiendo al pie de la letra y con total rigurosidad la instrucción del profeso
 ## 🧬 Mapa Mental Conceptual (Mermaid)
 ```mermaid
 graph TD
-    A[Química Grado 10°] --> B[Estequiometría Págs 130-141]
+    A[Química Escolar] --> B[Estequiometría Págs 130-141]
     A --> C[Equilibrio en Soluciones Págs 162-168]
     B --> B1[Leyes Ponderales Lavoisier y Proust]
     B --> B2[Cálculos Mol-Masa y Reactivo Límite]

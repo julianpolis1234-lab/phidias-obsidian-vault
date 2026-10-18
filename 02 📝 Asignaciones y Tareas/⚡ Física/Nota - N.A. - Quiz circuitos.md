@@ -3,6 +3,7 @@ id: "task_10"
 title: "[Nota: N.A.] Quiz circuitos"
 materia: "Física"
 materia_phidias: "Física"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "martes 20 oct"
 estado: "🟡 Pendientes (Esta semana)"
@@ -11,18 +12,20 @@ paginas_santillana: "Guía Oficial Circuitos.pdf + Consulta Ley de Ohm"
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - fsica
   - evaluacion
+  - flashcards
 ---
 
 # 📝 [Nota: N.A.] Quiz circuitos
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Física|Física]]
+> * **Asignatura:** [[Materia - Física|Física]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `martes 20 oct`
-> * **Estado:** **🟡 Pendientes (Esta semana)**
+> * **Estado Académico:** **🟡 Pendientes (Esta semana)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/v4/academic/course/group/dashboard?person=2046&period=64&group=5041)
 > * **Libro Guía Santillana:** [[Santillana - Física 10°]] (`Guía Oficial Circuitos.pdf + Consulta Ley de Ohm`)
 
@@ -66,7 +69,7 @@ Definitiva con recuperación
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Física Décimo | **Actividad:** Taller Práctico de Circuitos Eléctricos (`Circuitos.pdf` — 5 Puntos Completos)
 
@@ -183,7 +186,7 @@ Para resolver este taller descargué el archivo oficial **`Circuitos.pdf`** subi
 ## ⚡ Mapa Mental Conceptual (Mermaid)
 ```mermaid
 graph TD
-    A[Física Clásica 10°] --> B[Cinemática y Dinámica]
+    A[Física Clásica] --> B[Cinemática y Dinámica]
     A --> C[Leyes de Newton y Fuerzas]
     B --> B1[Movimiento Circular Uniforme MCU]
     B --> B2[Aceleración Centrípeta y Velocidad Tangencial]

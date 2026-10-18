@@ -3,6 +3,7 @@ id: "task_31"
 title: "Técnicas de conteo"
 materia: "Matemáticas"
 materia_phidias: "Matemáticas Décimo"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "Clase, jueves 22 octubre 06:45"
 estado: "🟡 Pendientes (Esta semana)"
@@ -11,17 +12,18 @@ paginas_santillana: "Págs. 286–291 (Zona de Entrenamiento en Pág. 290)"
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - matemticas
 ---
 
 # 📝 Técnicas de conteo
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Matemáticas|Matemáticas]]
+> * **Asignatura:** [[Materia - Matemáticas|Matemáticas]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `Clase, jueves 22 octubre 06:45`
-> * **Estado:** **🟡 Pendientes (Esta semana)**
+> * **Estado Académico:** **🟡 Pendientes (Esta semana)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/academic/assignment/details?assignment=12027&person=2046&_ach=7834f63547606756d52cbd3eff72d67e)
 > * **Libro Guía Santillana:** [[Santillana - Matemáticas 10°]] (`Págs. 286–291 (Zona de Entrenamiento en Pág. 290)`)
 
@@ -49,7 +51,7 @@ Consultar:
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Matemáticas Décimo | **Actividad:** Consulta y Ejercicios: Técnicas de Conteo, Permutaciones y Combinaciones (Páginas 286 a 291 — Santillana UNOi Matemáticas 10°)
 

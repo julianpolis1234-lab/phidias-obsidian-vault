@@ -3,6 +3,7 @@ id: "task_12"
 title: "[Quiz/Examen] Quiz conceptos John Stuart Mill."
 materia: "Ética y Valores"
 materia_phidias: "Ética, Convivencia y Valores"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "Quiz conceptos John Stuart Mill. oct 15, 11:0"
 estado: "🚨 Nota Baja / Recuperación (0.0 - 3.5)"
@@ -11,21 +12,23 @@ paginas_santillana: "Págs. 29–42 del libro PDF subido al Aula ('Mill-John-Stu
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - tica_y_valores
   - evaluacion
+  - flashcards
   - prioridad_alta
 ---
 
 # 📝 [Quiz/Examen] Quiz conceptos John Stuart Mill.
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Ética y Valores|Ética y Valores]]
+> * **Asignatura:** [[Materia - Ética y Valores|Ética y Valores]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `Quiz conceptos John Stuart Mill. oct 15, 11:0`
-> * **Estado:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
+> * **Estado Académico:** **🚨 Nota Baja / Recuperación (0.0 - 3.5)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/academic/exam/score/outcome?exam=660&person=2046)
-> * **Libro Guía Santillana:** [[Santillana - Sociales 10°]] (`Págs. 29–42 del libro PDF subido al Aula ('Mill-John-Stuart-Sobre-la-libertad-2014-Akal.pdf') + Santillana Págs. 96–101`)
+> * **Libro Guía Santillana:** [[Santillana - Ética y Valores]] (`Págs. 29–42 del libro PDF subido al Aula ('Mill-John-Stuart-Sobre-la-libertad-2014-Akal.pdf') + Santillana Págs. 96–101`)
 
 ---
 
@@ -64,7 +67,7 @@ Definitiva con recuperación
 ---
 
 ## 📖 2. Fundamentación Curricular Santillana UNOi
-* **Texto Guía:** [[Santillana - Sociales 10°|Texto Oficial del Aula Phidias — 'Sobre la libertad' (John Stuart Mill, Ed. Akal 2014) + Santillana 10°]]
+* **Texto Guía:** [[Santillana - Ética y Valores|Texto Oficial del Aula Phidias — 'Sobre la libertad' (John Stuart Mill, Ed. Akal 2014) + Santillana 10°]]
 * **Unidad Temática:** Capítulo I: Introducción de 'Sobre la libertad' (John Stuart Mill) y Utilitarismo
 * **Páginas del libro físico:** **Págs. 29–42 del libro PDF subido al Aula ('Mill-John-Stuart-Sobre-la-libertad-2014-Akal.pdf') + Santillana Págs. 96–101**
 * **Conceptos clave aplicados:** 1) El tema central del ensayo: la libertad civil o social (naturaleza y límites del poder que la sociedad puede ejercer legítimamente sobre el individuo); 2) Evolución histórica de la lucha entre la libertad y la autoridad (Grecia, Roma, Inglaterra): el gobernante como 'rey de los buitres', inmunidades/derechos políticos y controles constitucionales; 3) El paso a la democracia representativa y el descubrimiento de 'la tiranía de la mayoría' (la tiranía de los magistrados vs. la tiranía social de la opinión colectiva y la costumbre); 4) El Principio del Daño (el único fin por el cual la humanidad puede interferir en la libertad de acción de un individuo es la autoprotección / evitar que perjudique a otros) y las tres esferas de la libertad humana (libertad de conciencia/pensamiento y expresión, libertad de gustos y planes de vida, y libertad de asociación); 5) Preguntas e inquietudes críticas sobre fragmentos del texto para socializar en clase.
@@ -72,7 +75,7 @@ Definitiva con recuperación
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Ética, Convivencia y Valores Décimo | **Actividad:** Apuntes de Lectura y Control de Lectura — Capítulo I (*Introducción*) de *"Sobre la libertad"* de John Stuart Mill (PDF del Tablero Phidias Págs. 29–42 + Santillana 10° Págs. 96–101)
 

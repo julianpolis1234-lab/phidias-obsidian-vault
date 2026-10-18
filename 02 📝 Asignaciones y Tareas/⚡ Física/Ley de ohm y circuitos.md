@@ -3,6 +3,7 @@ id: "task_22"
 title: "Ley de ohm y circuitos"
 materia: "Física"
 materia_phidias: "Física Décimo"
+estudiante: "Julian Camilo Monroy Rozo"
 profesor: "Docente Titular"
 fecha_entrega: "Clase, martes 13 octubre 06:45"
 estado: "🔴 Atrasadas (Semana pasada)"
@@ -11,17 +12,18 @@ paginas_santillana: "Guía Oficial Circuitos.pdf + Consulta Ley de Ohm"
 tags:
   - phidias
   - tarea
-  - grado10
+  - estudiante
   - fsica
 ---
 
 # 📝 Ley de ohm y circuitos
 
 > [!INFO] **Ficha de la Asignación Académica**
-> * **Materia:** [[Materia - Física|Física]]
+> * **Asignatura:** [[Materia - Física|Física]]
+> * **Estudiante Titular:** `Julian Camilo Monroy Rozo`
 > * **Docente:** `Docente Titular`
 > * **Fecha Límite / Registro:** `Clase, martes 13 octubre 06:45`
-> * **Estado:** **🔴 Atrasadas (Semana pasada)**
+> * **Estado Académico:** **🔴 Atrasadas (Semana pasada)**
 > * **Portal Phidias:** [Ver en Phidias](https://liceomodernocf.phidias.co/academic/assignment/details?assignment=11987&person=2046&_ach=8edd284465cea2bb5e156f1935106fda)
 > * **Libro Guía Santillana:** [[Santillana - Física 10°]] (`Guía Oficial Circuitos.pdf + Consulta Ley de Ohm`)
 
@@ -46,7 +48,7 @@ Ley de ohm y circuitos
 ---
 
 ## ✍️ 3. Solución Estudiantil Completa
-*(Redactado en voz auténtica de estudiante, respetando el formato solicitado y con rigor conceptual).*
+*(Desarrollado en lenguaje auténtico de estudiante, respetando el formato solicitado y con rigor conceptual).*
 
 **Estudiante:** Julian Camilo Monroy Rozo | **Grado:** 10° | **Asignatura:** Física Décimo | **Actividad:** Consulta: Ley de Ohm y Circuitos Eléctricos (5 Puntos del Profesor)
 
@@ -122,7 +124,7 @@ Donde $R$ es la resistencia en ohmios ($\Omega$), $\rho$ es la resistividad prop
 ## ⚡ Mapa Mental Conceptual (Mermaid)
 ```mermaid
 graph TD
-    A[Física Clásica 10°] --> B[Cinemática y Dinámica]
+    A[Física Clásica] --> B[Cinemática y Dinámica]
     A --> C[Leyes de Newton y Fuerzas]
     B --> B1[Movimiento Circular Uniforme MCU]
     B --> B2[Aceleración Centrípeta y Velocidad Tangencial]

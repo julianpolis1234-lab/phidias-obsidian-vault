@@ -22,7 +22,7 @@ Este repositorio está diseñado para que **múltiples estudiantes y amigos** de
 1. **Clonar este repositorio en su computador:**
    Cualquier compañero puede clonar este repositorio de GitHub en su carpeta de Obsidian:
    ```bash
-   git clone https://github.com/TU_USUARIO/phidias-obsidian-vault.git "Mi Obsidian Vault"
+   git clone https://github.com/julianpolis1234-lab/phidias-obsidian-vault.git "Mi Obsidian Vault"
    ```
 2. **Consultar las entregas en Word (.docx):**
    Todos los documentos generados con formato APA y normas del colegio están disponibles en la carpeta `entregas_listas/`.

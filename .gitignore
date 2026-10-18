@@ -1,0 +1,7 @@
+# Obsidian local UI workspace caches (no compartir estado visual por dispositivo)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+*.tmp
+*.log

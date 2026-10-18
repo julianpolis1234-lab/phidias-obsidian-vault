@@ -1,0 +1,10 @@
+﻿{
+    "autoBackupAfterFileChange":  true,
+    "disablePush":  false,
+    "commitMessage":  "vault: auto-sync phidias \u0026 santillana [{{date}} {{time}}]",
+    "pullBeforePush":  true,
+    "autoSaveInterval":  2,
+    "autoPushInterval":  2,
+    "autoPullInterval":  5,
+    "autoPullOnBoot":  true
+}
